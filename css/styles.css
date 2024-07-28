@@ -137,10 +137,12 @@ button {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  text-transform: capitalize;
 }
 .section-team-list {
 }
 .section-team-list-item {
+  background-color: #ffffff;
 }
 .section-team-list-item-title {
   font-weight: 500;
